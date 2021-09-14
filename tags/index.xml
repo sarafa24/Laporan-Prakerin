@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Materi Dasar Elektronika</title>
-    <link>https://vno-hugo.netlify.app/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Materi Dasar Elektronika</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Aug 2021 16:02:08 +0700</lastBuildDate><atom:link href="https://vno-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 16:02:08 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>stemba</title>
-      <link>https://vno-hugo.netlify.app/tags/stemba/</link>
+      <link>/tags/stemba/</link>
       <pubDate>Thu, 26 Aug 2021 16:02:08 +0700</pubDate>
       
-      <guid>https://vno-hugo.netlify.app/tags/stemba/</guid>
+      <guid>/tags/stemba/</guid>
       <description></description>
     </item>
     
